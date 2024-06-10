@@ -1,4 +1,4 @@
-# url-shortener
+# Url-shortener
 An application to shorten urls
 
 ## Installing
